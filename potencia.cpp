@@ -7,9 +7,9 @@ int main() {
 	int i, base, potencia, resultado;
 	resultado = 0;
 	
-	cout << "Digite o número da base: ";
+	cout << "Digite o nÃºmero da base: ";
 	cin >> base;
-	cout << "Digite o número da potência: ";
+	cout << "Digite o nÃºmero da potÃªncia: ";
 	cin >> potencia;
 	
 	
@@ -17,7 +17,7 @@ int main() {
 		resultado += base * base;
 	}
 	
-	cout << "O resultado é: " << resultado << endl;
+	cout << "O resultado Ã©: " << resultado << endl;
 	
 	return 0;
 }
